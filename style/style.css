@@ -1,0 +1,50 @@
+h1 {
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 1500px;
+}
+.t1{
+    margin-right: 130px;
+}
+.t2{
+    margin: 50px;
+}
+.t3{
+    padding: 50px;
+}
+.t4{
+    padding: 20px 60px;
+}
+.t5{
+    padding: 10px 20px 5px 1px;
+}
+.t6{
+    margin-left: -20px;
+}
+.t7{
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+
+
+
+.log{
+    width: 100px;
+}
+header {
+    text-align: center;
+    color: blue;
+}
+nav li{
+    padding: 10px;
+    border: solid 1px black;
+    display: inline-block;
+    border-radius: 10px;
+
+}
+.welcome{
+    
+}
