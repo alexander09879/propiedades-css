@@ -1,0 +1,62 @@
+
+.log{
+    width: 100px;
+}
+header {
+    text-align: center;
+    color: blue;
+}
+nav li{
+    padding: 10px;
+    border: solid 1px black;
+    display: inline-block;
+    border-radius: 10px;
+
+}
+.welcome{
+    padding: 20px;
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+}
+.courses{
+    padding:  30px;
+
+}
+
+main {
+    background-color: #ffffff;
+    color: black;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+p {
+    font-size: 18px;
+    line-height: 1.4;
+}
+.welcome h1, .courses h2 {
+    color: #005a9c;
+}
+.infoCurso img{
+    width: 300px;
+    float: left;
+    margin-right: 50px;
+}
+.infoCurso{
+    overflow: auto;
+    margin-bottom: 50px;
+}
+footer{
+    text-align: center;
+    padding: 30px;
+    background-color: lightgray;
+}
+
+.image{
+    width: 600px;
+    border: 2px solid black;
+}
+
+    
